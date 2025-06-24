@@ -1,0 +1,12 @@
+{
+  "user1":{
+  "name": "ali",
+    "familiya": "vali",
+    "t.raqam": "1234"
+  },
+  "user2":{
+  "name": "aoi",
+    "familiya": "vai",
+    "t.raqam": "1244"
+  }
+}
