@@ -1,1 +1,0 @@
-bu konflikt yechildi: ikkalasidan birlashtirildi
